@@ -1,3 +1,3 @@
 # Foodmoji
 
-Foodmoji is an emoji interpreter for food created with React.
+Foodmoji is an emoji interpreter for food emojis. This app was created using React.
